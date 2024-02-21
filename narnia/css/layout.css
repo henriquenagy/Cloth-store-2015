@@ -1,0 +1,48 @@
+body{
+	 color: #333333; font-family: "lucida sans unicode", "lucida grande", sans-serif;
+     background-image: url("../img/fixo.png");background-repeat: no-repeat;
+	 background-attachment: fixed;margin-right: 180px;
+	 background-size: 150px 150px;
+	 background-position:right top;
+	 background-color:#E0CCFF;
+	 margin-left:auto;margin-right:auto;width:940px;
+	 }
+	 
+	 
+h1,h2{
+	 background-image: url("../img/fundo.jpg");
+     text-align:center; 
+	 font-size: 40px;
+	 color:rgb(255,200,0);
+	 font-family:"arial","helvetica",sans-serif;
+	 border-style: outset;
+	 padding:20px;    
+	 margin: 60px 40px 20px 40px;
+	 }
+	 
+	 
+	 
+div.borda{border:4px solid black;padding:10px;letter-spacing:2px;
+	     background-color:#EBEBE0;margin: 25px 40px 20px 40px;text-align:center;
+		 text-transform:uppercase;}
+
+
+		 
+figure{background-color: #EBEBE0;text-align:center;border-style: double;}
+figcaption{font-style:italic;}
+img.foto{width: 400px; height:300px;}
+img.family{width: 450px; height:350px;border-style:outset;}
+#castle{margin-left:auto;margin-right:auto;width:630px;text-align:center;border-style:outset;}
+
+
+p.teste {
+    width: 1685px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 0;
+	background-color:lightgrey;
+}
+p{font-family:"arial","helvetica",sans-serif; font-size:1.1em;padding:0 45px;text-indent:15px;}
+a:link{color:blue;}a:visited{color:orange;}a:hover{color:red;font-size:19px;text-transform:uppercase;font-style:italic;}a:active{color:pink;}
+
+#rodape {color:#777;margin:30px 30px 30px 300px;padding:30px 0;} #rodape img{margin-right:30px;vertical-align:middle;width:94px;}

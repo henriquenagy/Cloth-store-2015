@@ -1,0 +1,5 @@
+body{color: #333333; font-family: "lucida sans unicode", "lucida grande", sans-serif;}
+h1,h2{background-image: url("img/fundo.jpg");text-align:center; font-size: 40px;color:rgb(255,200,0);}
+figure{background-color: #f2eded; border: 1px solid #ccc; text-align:center;}
+figcaption{font-style:italic;}
+img.tamanho {width:300px;}
